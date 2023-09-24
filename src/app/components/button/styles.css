@@ -1,0 +1,11 @@
+button {
+  width: 20vw;
+  height: 6vh;
+  border-radius: 8px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+button:hover {
+  opacity: 80%;
+}
